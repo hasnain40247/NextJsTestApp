@@ -13,7 +13,7 @@ const NotFound = () => {
     <div className="error">
       <div>
         <h1>Oops!</h1>
-        <h4>We Can't Seem To Find The Page You're Looking For.</h4>
+        <h4>We Cant Seem To Find The Page Youre Looking For.</h4>
         <h5>Error Code: 404</h5>
         <h5>Here Are Some Links To Get You Back On Track</h5>
         <ul
