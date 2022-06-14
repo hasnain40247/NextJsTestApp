@@ -1,12 +1,7 @@
-import { useState, useEffect, useRef } from "react";
-import { OrbitControls } from "three/examples/jsm/controls/OrbitControls";
-import * as THREE from "three";
-import { GLTFLoader } from "three/examples/jsm/loaders/GLTFLoader";
-
-export default function Home() {
+const test = () => {
   return (
     <div>
-      <h1>Home</h1>
+      <h1>Test</h1>
       <p>
         Lorem Ipsum is simply dummy text of the printing and typesetting
         industry. Lorem Ipsum has been the industry's standard dummy text ever
@@ -20,4 +15,6 @@ export default function Home() {
       </p>
     </div>
   );
-}
+};
+
+export default test;
